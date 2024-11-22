@@ -67,3 +67,14 @@
             font-size: 1rem;
             color: #ccc;
         }
+        lista_link a:hover{
+            color: rgb(202, 204, 78);
+        }
+        lista_link a:active{
+            color:rgb(245, 86, 237);
+        }
+        
+        .container_botão:hover{
+            background-color: rgb(238, 117, 212);
+            color: rgb(100, 102, 237);
+        }
